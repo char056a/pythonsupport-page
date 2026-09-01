@@ -1,7 +1,7 @@
 .. _video-tutorials-reference:
 
 
-Video Tutorials
+Conda
 ================
 
 Here you will find video tutorials for Visual Studio Code, conda, terminal usage and more. 
